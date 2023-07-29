@@ -4,3 +4,8 @@ git rm --cached
 git commit -m "mesage"
 git restore
 git log
+git log --oneline
+git log --pretty
+git log --oneline --pretty
+git config --global user.add "username"
+git config --global user.emal "emailId" 
