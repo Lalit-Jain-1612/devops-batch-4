@@ -9,3 +9,5 @@ git log --pretty
 git log --oneline --pretty
 git config --global user.add "username"
 git config --global user.emal "emailId" 
+git checkout -b <branchname>
+git pull origin main
